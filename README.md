@@ -48,7 +48,7 @@ Proyek ini membagi peran sesuai prinsip **MVC (Model-View-Controller)** sederhan
 
 1.  **Clone Repository**
     ```bash
-    git clone https://github.com/RfadnjdExt/Diagnosa-Penyakit-AI.git
+    git clone https://github.com/RfadnjdExt/SiDia.git
     cd Diagnosa-Penyakit-AI
     ```
 
