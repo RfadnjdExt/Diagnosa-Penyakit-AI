@@ -1,7 +1,7 @@
 # 🏥 Sistem Diagnosa Penyakit (AI-Based)
 
 <p align="center">
-  <img src="logo.jpg" alt="Logo Sistem Diagnosa Penyakit" width="200"/>
+  <img src="logo.png" alt="Logo Sistem Diagnosa Penyakit" width="200"/>
 </p>
 
 
